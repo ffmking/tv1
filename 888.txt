@@ -1,4 +1,4 @@
-﻿🐷自用線路,#genre#
+﻿🎃自用線路,#genre#
 CCTV-1綜合頻道,http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8
 CCTV-1綜合頻道,http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8
 CCTV-1綜合頻道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
