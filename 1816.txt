@@ -1,0 +1,30 @@
+﻿584830114073    800309151021
+
+
+惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘朵拉完美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松視2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松視3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+
+
+惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
+香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
+奥视3台,http://125.227.210.55:8201/VideoInput/play.ts
+奥视2台,http://125.227.210.55:8203/VideoInput/play.ts
+奥视1台,http://125.227.210.55:8205/VideoInput/play.ts
+
+松視3台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=404
+潘朵拉完美,https://hlspull.iptv8k.top/iptv/ubtv.php?id=410
+HAPPY,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2908
+JStar,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2909
+彩虹E,https://hlspull.iptv8k.top/iptv/ubtv.php?id=406
+彩虹K,https://hlspull.iptv8k.top/iptv/ubtv.php?id=415
+Brazzers TV,https://hlspull.iptv8k.top/iptv/ubtv.php?id=3076
+極限電影,https://hlspull.iptv8k.top/iptv/ubtv.php?id=405
+奥视频道2,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2916
+
+
+
+
