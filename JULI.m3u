@@ -1,0 +1,343 @@
+﻿#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="明珠台(字幕)" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="JULI",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-name="亞洲武俠" tvg-logo="https://logo.catvod.com/功夫台.png" group-title="JULI",亞洲武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-name="TVB 生活台" tvg-logo="https://logo.catvod.com/TVB生活台.png" group-title="JULI",TVB 生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="JULI",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-name="翡翠劇集台" tvg-logo="https://logo.catvod.com/翡翠剧集台.png" group-title="JULI",翡翠劇集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="JULI",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NOW新闻台.png" group-title="JULI",Now 新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="JULI",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOYTV.png" group-title="JULI",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-name="美亞電影台TW" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="JULI",美亞電影台TW
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="重溫經典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="JULI",重溫經典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="廣東珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="JULI",廣東珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="JULI",廣東體育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="JULI",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳視衛星" tvg-logo="https://logo.catvod.com/澳门卫星.png" group-title="JULI",澳視衛星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://logo.catvod.com/澳门体育.png" group-title="JULI",澳門體育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳門綜藝" tvg-logo="https://logo.catvod.com/澳门综艺.png" group-title="JULI",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="JULI",澳門蓮花
+http://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="JULI",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="JULI",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="JULI",CCTV1港澳版
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel-5.png" group-title="JULI",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel-8.png" group-title="JULI",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel U HD.png" group-title="JULI",Channel U
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://logo.catvod.com/龍華電影.png" group-title="JULI",龍華電影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://logo.catvod.com/龍華經典.png" group-title="JULI",龍華經典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-name="龍華卡通" tvg-logo="https://logo.catvod.com/龍華卡通.png" group-title="JULI",龍華卡通
+http://cdn8.163189.xyz/163189/lhkt
+#EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://logo.catvod.com/龍華偶像.png" group-title="JULI",龍華偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-name="龍華日韓" tvg-logo="https://logo.catvod.com/龍華日韓.png" group-title="JULI",龍華日韓
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://logo.catvod.com/龍華戲劇.png" group-title="JULI",龍華戲劇
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://logo.catvod.com/龍華洋片.png" group-title="JULI",龍華洋片
+http://cdn8.163189.xyz/163189/lhyp
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無线新闻台.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://logo.catvod.com/千禧經典台.png" group-title="JULI",千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="JULI",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="JULI",天映經典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="JULI",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="JULI",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="JULI",愛奇藝
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/全佳.png" group-title="JULI",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro 歡喜台" tvg-logo="https://logo.catvod.com/欢喜台.png" group-title="JULI",Astro 歡喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="JULI",CCTV13
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 tvg-name="深圳衛視4K" tvg-logo="https://logo.catvod.com/深圳卫视4K.png" group-title="JULI",深圳衛視4K
+https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 tvg-name="深圳財經生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="JULI",深圳財經生活
+https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 tvg-name="第一財經" tvg-logo="https://logo.catvod.com/第一财经.png" group-title="JULI",第一財經
+https://cdn3.163189.xyz/163189/dycj
+#EXTINF:-1 tvg-name="五星體育" tvg-logo="https://logo.catvod.com/五星体育.png" group-title="JULI",五星體育
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻台.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://logo.catvod.com/viutv6.png" group-title="JULI",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="JULI",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="JULI",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://logo.catvod.com/千禧經典台.png" group-title="JULI",千禧經典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="美亞電影台TW" tvg-logo="https://logo.catvod.com/美亞電影台.png" group-title="JULI",美亞電影台TW
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映頻道.png" group-title="JULI",天映頻道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="JULI",天映經典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://php.jdshipin.com:8880/smt.php?id=TV8
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="JULI",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="JULI",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="JULI",愛奇藝
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/全佳.png" group-title="JULI",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro 歡喜台" tvg-logo="https://logo.catvod.com/欢喜台.png" group-title="JULI",Astro 歡喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://logo.catvod.com/台视.png" group-title="JULI",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中视.png" group-title="JULI",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/华视.png" group-title="JULI",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民视.png" group-title="JULI",民視
+rtmp://f13h.mine.nu/sat/tv051
+
+#EXTINF:-1 tvg-name="台灣Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TaiwanPlus.png" group-title="JULI",台灣Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/纬来体育.png" group-title="JULI",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://www.asiasatv.com/wp-content/uploads/2023/07/589f46511a845d76bd8eeba78e22628_副本.png" group-title="JULI",亞洲衛視
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-name="香港環球衛視" tvg-logo="https://logo.catvod.com/香港环球卫视.png" group-title="JULI",環球衛視
+rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
+#EXTINF:-1 tvg-name="香港國際衛視" tvg-logo="https://raw.githubusercontent.com/HiDigital/Logo/refs/heads/main/香港国际.png" group-title="JULI",香港國際衛視
+http://106.53.99.30/tv/hk.php?id=HKI
+#EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="JULI",香港衛視
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港環球電視台" tvg-logo="https://logo.catvod.com/香港环球电视台.png" group-title="JULI",香港環球電視台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="亞太電視綜合台" tvg-logo="https://logo.catvod.com/亚太第一卫视.png" group-title="JULI",亞太電視綜合台
+http://play2.one-tv.com/live/onetv.m3u8
+
+#EXTINF:-1 tvg-name="中國國際少兒電視台" tvg-logo="http://www.cicstv.com/uploads/210124/1-210124153S4402.png" group-title="JULI",中國國際少兒電視台
+http://110.42.62.252:8080/live/sews.m3u8?hls_ctx=t76c408w
+
+
+
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-1.streamhoster.com/pl_122/amlst:206954-4507320/chunklist_b3500000.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視電影台" tvg-logo="https://logo.catvod.com/凤凰卫视电影台.png" group-title="JULI",鳳凰衛視電影台
+http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://logo.catvod.com/凤凰卫视电影台.png" group-title="JULI",鳳凰衛視電影台
+http://39.107.120.164:8080/live/diyp_fhdy.flv
+#EXTINF:-1 tvg-name="星空衛視" tvg-logo="https://logo.catvod.com/星空卫视.png" group-title="JULI",星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-name="CHANNEL[V]" tvg-logo="https://logo.catvod.com/CHANNEL[V].png" group-title="JULI",CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 tvg-name="星空衛視" tvg-logo="https://logo.catvod.com/星空卫视.png" group-title="JULI",星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.flv
+#EXTINF:-1 tvg-name="CHANNEL[V]" tvg-logo="https://logo.catvod.com/CHANNEL[V].png" group-title="JULI",CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.flv
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB 星河頻道" group-title="JULI" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png",TVB 星河頻道 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
+#EXTINF:-1 group-logo="" group-title="JULI" tvg-id="" ch-number="317" tvg-logo="https://get.perfecttv.net/logo/tvbentertainmentnews.png",娛樂新聞台
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbentertainment
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="千禧經典台" group-title="JULI" group-logo="" tvg-logo="https://logo.catvod.com/千禧經典台.png",千禧經典台
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="JULI" group-logo="https://get.perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd?channel=phoenix
+#EXTINF:-1 tvg-name="KCTV(朝鮮勞動黨中央電視台)" tvg-logo="https://raw.githubusercontent.com/HiDigital/Logo/refs/heads/main/朝鲜电视台.png" group-title="JULI",KCTV(朝鮮勞動黨中央電視台)
+https://tv.intchoson.com/kctv/index.m3u8
+
+#EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="JULI",BBC News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd?channel=bbcnews
+
+#EXTINF:-1 group-logo="" group-title="JULI" tvg-id="CNN" ch-number="511" tvg-logo="https://get.perfecttv.net/logo/cnn.png", CNN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd?channel=cnn
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="JULI",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="JULI",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="JULI",龍祥時代電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="JULI",台灣美亞電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="JULI",CINEMAX
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="JULI",好萊塢電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="JULI",東森電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="JULI",東森洋片台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="JULI",Catchplay電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="JULI",AXN台灣台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="JULI",HBO亞洲
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
+
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="JULI",龍祥時代電影台
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="JULI",台灣美亞電影台
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="JULI",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="JULI",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="JULI",東森電影台
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="JULI",東森洋片台
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="JULI",Catchplay電影台
+https://smart.dxjc.pp.ua/smart.php?id=catchplay_twn&token=tmxk
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="JULI",AXN台灣台
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="JULI",HBO亞洲
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+
+
+
