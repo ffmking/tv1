@@ -1,0 +1,654 @@
+﻿#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="明珠台(字幕)" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="JULI",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-name="亞洲武俠" tvg-logo="https://logo.catvod.com/功夫台.png" group-title="JULI",亞洲武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-name="TVB 生活台" tvg-logo="https://logo.catvod.com/TVB生活台.png" group-title="JULI",TVB 生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="JULI",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-name="翡翠劇集台" tvg-logo="https://logo.catvod.com/翡翠剧集台.png" group-title="JULI",翡翠劇集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="JULI",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NOW新闻台.png" group-title="JULI",Now 新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="JULI",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOYTV.png" group-title="JULI",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-name="美亞電影台TW" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="JULI",美亞電影台TW
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="重溫經典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="JULI",重溫經典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="廣東珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="JULI",廣東珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="JULI",廣東體育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="JULI",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳視衛星" tvg-logo="https://logo.catvod.com/澳门卫星.png" group-title="JULI",澳視衛星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://logo.catvod.com/澳门体育.png" group-title="JULI",澳門體育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳門綜藝" tvg-logo="https://logo.catvod.com/澳门综艺.png" group-title="JULI",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="JULI",澳門蓮花
+http://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="JULI",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="JULI",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="JULI",CCTV1港澳版
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel-5.png" group-title="JULI",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel-8.png" group-title="JULI",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Channel U HD.png" group-title="JULI",Channel U
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://logo.catvod.com/龍華電影.png" group-title="JULI",龍華電影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://logo.catvod.com/龍華經典.png" group-title="JULI",龍華經典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-name="龍華卡通" tvg-logo="https://logo.catvod.com/龍華卡通.png" group-title="JULI",龍華卡通
+http://cdn8.163189.xyz/163189/lhkt
+#EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://logo.catvod.com/龍華偶像.png" group-title="JULI",龍華偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-name="龍華日韓" tvg-logo="https://logo.catvod.com/龍華日韓.png" group-title="JULI",龍華日韓
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://logo.catvod.com/龍華戲劇.png" group-title="JULI",龍華戲劇
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://logo.catvod.com/龍華洋片.png" group-title="JULI",龍華洋片
+http://cdn8.163189.xyz/163189/lhyp
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無线新闻台.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://logo.catvod.com/千禧經典台.png" group-title="JULI",千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="JULI",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="JULI",天映經典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="JULI",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="JULI",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="JULI",愛奇藝
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/全佳.png" group-title="JULI",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro 歡喜台" tvg-logo="https://logo.catvod.com/欢喜台.png" group-title="JULI",Astro 歡喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="JULI",CCTV13
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 tvg-name="深圳衛視4K" tvg-logo="https://logo.catvod.com/深圳卫视4K.png" group-title="JULI",深圳衛視4K
+https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 tvg-name="深圳財經生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="JULI",深圳財經生活
+https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 tvg-name="第一財經" tvg-logo="https://logo.catvod.com/第一财经.png" group-title="JULI",第一財經
+https://cdn3.163189.xyz/163189/dycj
+#EXTINF:-1 tvg-name="五星體育" tvg-logo="https://logo.catvod.com/五星体育.png" group-title="JULI",五星體育
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="JULI",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="華麗翡翠台" tvg-logo="https://logo.catvod.com/华丽台.png" group-title="JULI",華麗翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB 星河頻道" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="JULI",TVB 星河頻道
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="JULI",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="JULI",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/无线新闻台.png" group-title="JULI",無綫新聞台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="JULI",娛樂新聞台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/viutv.png" group-title="JULI",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://logo.catvod.com/viutv6.png" group-title="JULI",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="JULI",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="JULI",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://logo.catvod.com/千禧經典台.png" group-title="JULI",千禧經典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="美亞電影台TW" tvg-logo="https://logo.catvod.com/美亞電影台.png" group-title="JULI",美亞電影台TW
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映頻道.png" group-title="JULI",天映頻道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="JULI",天映經典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="JULI",鳳凰衛視中文台
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="JULI",鳳凰衛視資訊台
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="JULI",鳳凰衛視香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://logo.catvod.com/8TV.png" group-title="JULI",八度空間
+http://php.jdshipin.com:8880/smt.php?id=TV8
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="JULI",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="JULI",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="JULI",愛奇藝
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/全佳.png" group-title="JULI",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro 歡喜台" tvg-logo="https://logo.catvod.com/欢喜台.png" group-title="JULI",Astro 歡喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://logo.catvod.com/台视.png" group-title="JULI",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中视.png" group-title="JULI",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/华视.png" group-title="JULI",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民视.png" group-title="JULI",民視
+rtmp://f13h.mine.nu/sat/tv051
+
+#EXTINF:-1 tvg-name="台灣Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TaiwanPlus.png" group-title="JULI",台灣Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/纬来体育.png" group-title="JULI",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="亞洲衛視" tvg-logo="https://www.asiasatv.com/wp-content/uploads/2023/07/589f46511a845d76bd8eeba78e22628_副本.png" group-title="JULI",亞洲衛視
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-name="香港環球衛視" tvg-logo="https://logo.catvod.com/香港环球卫视.png" group-title="JULI",環球衛視
+rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
+#EXTINF:-1 tvg-name="香港國際衛視" tvg-logo="https://raw.githubusercontent.com/HiDigital/Logo/refs/heads/main/香港国际.png" group-title="JULI",香港國際衛視
+http://106.53.99.30/tv/hk.php?id=HKI
+#EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="JULI",香港衛視
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港環球電視台" tvg-logo="https://logo.catvod.com/香港环球电视台.png" group-title="JULI",香港環球電視台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="亞太電視綜合台" tvg-logo="https://logo.catvod.com/亚太第一卫视.png" group-title="JULI",亞太電視綜合台
+http://play2.one-tv.com/live/onetv.m3u8
+
+#EXTINF:-1 tvg-name="中國國際少兒電視台" tvg-logo="http://www.cicstv.com/uploads/210124/1-210124153S4402.png" group-title="JULI",中國國際少兒電視台
+http://110.42.62.252:8080/live/sews.m3u8?hls_ctx=t76c408w
+
+
+
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="https://d.kstore.dev/download/4343/UCH.png" group-title="JULI",優視頻道
+https://2-fss-1.streamhoster.com/pl_122/amlst:206954-4507320/chunklist_b3500000.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視電影台" tvg-logo="https://logo.catvod.com/凤凰卫视电影台.png" group-title="JULI",鳳凰衛視電影台
+http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://logo.catvod.com/凤凰卫视电影台.png" group-title="JULI",鳳凰衛視電影台
+http://39.107.120.164:8080/live/diyp_fhdy.flv
+#EXTINF:-1 tvg-name="星空衛視" tvg-logo="https://logo.catvod.com/星空卫视.png" group-title="JULI",星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-name="CHANNEL[V]" tvg-logo="https://logo.catvod.com/CHANNEL[V].png" group-title="JULI",CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 tvg-name="星空衛視" tvg-logo="https://logo.catvod.com/星空卫视.png" group-title="JULI",星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.flv
+#EXTINF:-1 tvg-name="CHANNEL[V]" tvg-logo="https://logo.catvod.com/CHANNEL[V].png" group-title="JULI",CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.flv
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB 星河頻道" group-title="JULI" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png",TVB 星河頻道 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
+#EXTINF:-1 group-logo="" group-title="JULI" tvg-id="" ch-number="317" tvg-logo="https://get.perfecttv.net/logo/tvbentertainmentnews.png",娛樂新聞台
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbentertainment
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="千禧經典台" group-title="JULI" group-logo="" tvg-logo="https://logo.catvod.com/千禧經典台.png",千禧經典台
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="JULI" group-logo="https://get.perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd?channel=phoenix
+#EXTINF:-1 tvg-name="KCTV(朝鮮勞動黨中央電視台)" tvg-logo="https://raw.githubusercontent.com/HiDigital/Logo/refs/heads/main/朝鲜电视台.png" group-title="JULI",KCTV(朝鮮勞動黨中央電視台)
+https://tv.intchoson.com/kctv/index.m3u8
+
+#EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="JULI",BBC News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd?channel=bbcnews
+
+#EXTINF:-1 group-logo="" group-title="JULI" tvg-id="CNN" ch-number="511" tvg-logo="https://get.perfecttv.net/logo/cnn.png", CNN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd?channel=cnn
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="JULI",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="JULI",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="JULI",龍祥時代電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="JULI",台灣美亞電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="JULI",CINEMAX
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="JULI",好萊塢電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="JULI",東森電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="JULI",東森洋片台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="JULI",Catchplay電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="JULI",AXN台灣台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="JULI",HBO亞洲
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
+
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="JULI",龍祥時代電影台
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="JULI",台灣美亞電影台
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="JULI",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="JULI",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="JULI",東森電影台
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="JULI",東森洋片台
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="JULI",Catchplay電影台
+https://smart.dxjc.pp.ua/smart.php?id=catchplay_twn&token=tmxk
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="JULI",AXN台灣台
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="JULI",HBO亞洲
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+
+#EXTINF:-1 tvg-name="東森新聞美洲台" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森新聞美洲台
+http://udnhls.skilldns.com:80/dsxw.m3u8
+#EXTINF:-1 tvg-name="東森新聞美洲台" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森新聞美洲台
+http://udnhls.skilldns.com/dsxw.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視1" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視1
+http://udnhls.skilldns.com:80/dsmz.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視1" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視1
+http://udnhls.skilldns.com/dsmz.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森中國台" tvg-logo="https://d.kstore.dev/download/4343/dszgt.png" group-title="美國華文",東森中國台
+http://38.64.72.148:80/hls/modn/list/2003/playlist.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森超視美洲台" tvg-logo="https://d.kstore.dev/download/4343/dscsmz.png" group-title="美國華文",東森超視美洲台
+http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://d.kstore.dev/download/4343/dsmd.png" group-title="美國華文",東森美洲衛視
+http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+#EXTINF:-1 tvg-name="東森美洲HD" tvg-logo="https://d.kstore.dev/download/4343/dsmzxw.png" group-title="美國華文",東森美洲HD
+http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148:80/hls/modn/list/4025/chunklist0.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148:80/hls/modn/list/4025/chunklist1.m3u8
+#EXTINF:-1 tvg-name="漢天衛視" tvg-logo="https://d.kstore.dev/download/4343/htws.png" group-title="美國華文",漢天衛視
+http://38.64.72.148:80/hls/modn/list/4025/playlist.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/chunklist1.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148:80/hls/modn/list/4026/chunklist0.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148:80/hls/modn/list/4026/chunklist1.m3u8
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://d.kstore.dev/download/4343/zwds.png" group-title="美國華文",中旺電視
+http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/chunklist0.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148:80/hls/modn/list/4028/chunklist0.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
+#EXTINF:-1 tvg-name="美國城市衛視" tvg-logo="https://d.kstore.dev/download/4343/mgcsws.png" group-title="美國華文",美國城市衛視
+http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
+#EXTINF:-1 tvg-name="天下卫视" tvg-logo="https://d.kstore.dev/download/4343/txws.png" group-title="美國華文",天下卫视
+webview://https://zeam.com/publishers/776/sky-link-tv#channel:23916
+#EXTINF:-1 tvg-name="KTSF26洛杉磯三藩市" tvg-logo="https://d.kstore.dev/download/4343/KTSF.png" group-title="美國華文",KTSF26洛杉磯三藩市
+webview://https://zeam.com/publishers/230/ktsf#channel:12826
+#EXTINF:-1 tvg-name="鳳凰衛視美洲台" tvg-logo="https://logo.catvod.com/凤凰美洲.png" group-title="美國華文",鳳凰衛視美洲台
+https://usiptv.esnad.dpdns.org/?id=fhmz
+#EXTINF:-1 tvg-name="中國電影頻道(北美)" tvg-logo="https://logo.catvod.com/中国电影频道.png" group-title="美國華文",中國電影頻道(北美)
+https://usiptv.esnad.dpdns.org/?id=zgdy
+#EXTINF:-1 tvg-name="CCTV-娛樂" tvg-logo="https://logo.catvod.com/CCTV娱乐.png" group-title="美國華文",CCTV-娛樂
+https://usiptv.esnad.dpdns.org/?id=cctvyl
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV-2
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV-3
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV-4
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV-5
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV-6
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV-7
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV-8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV-9
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV-10
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV-11
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV-12
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV-13
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV-14
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV-15
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",CCTV-16
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV-17
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="央视",CCTV-5+
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="央视",CCTV-4K超高清频道
+https://shyd.695847.xyz/cms001/ch00000090990000001451/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="央视",中国天气
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CGTN-Pусский俄语频道" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="央视",CGTN-Pусский俄语频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CGTN-Español西班牙语频道" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="央视",CGTN-Español西班牙语频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="央视",CHC家庭影院
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="央视",CHC高清电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="央视",CHC动作电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="央视",CETV-1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV2.png" group-title="央视",CETV-2
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://logo.catvod.com/CETV3.png" group-title="央视",CETV-3
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="央视",CETV-4
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="每经AI电视" tvg-logo="https://d.kstore.dev/download/4343/mjaitv.png" group-title="央视",每经AI电视
+https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/陕西新闻.png" group-title="陕西",陕西新闻资讯
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/陕西都市.png" group-title="陕西",陕西都市青春
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.fanmingming.cn/tv/陕西银龄.png" group-title="陕西",陕西银龄
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://logo.catvod.com/陕西秦腔.png" group-title="陕西",陕西秦腔
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="陕西体育" tvg-logo="https://logo.catvod.com/陕西体育.png" group-title="陕西",陕西体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+#EXTINF:-1 tvg-name="陕西体育" tvg-logo="https://logo.catvod.com/陕西体育.png" group-title="陕西",陕西体育
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/陕西购物.png" group-title="陕西",陕西乐家购物
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://logo.catvod.com/西安新闻综合.png" group-title="陕西",西安新闻综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://logo.catvod.com/西安都市.png" group-title="陕西",西安都市
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://logo.catvod.com/西安商务资讯.png" group-title="陕西",西安商务资讯
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/西安影视.png" group-title="陕西",西安影视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://logo.catvod.com/西安丝路.png" group-title="陕西",西安丝路
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="西安移动" tvg-logo="https://d.kstore.dev/download/4343/XAYD.png" group-title="陕西",西安移动
+https://xatv-yt.xiancity.cn/live/7/index.m3u8
+#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://logo.catvod.com/西安教育.png" group-title="陕西",西安教育
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="陕西",农林卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="临潼综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/临潼综合.png" group-title="陕西",临潼综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002790/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="阎良综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/西安1.png" group-title="陕西",阎良综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="三原综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/三原综合.png" group-title="陕西",三原综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002877/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="泾阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/西安1.png" group-title="陕西",泾阳综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002566/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="富平综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/富平综合.png" group-title="陕西",富平综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002561/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="鄠邑综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/鄠邑综合.png" group-title="陕西",鄠邑综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002655/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="兴平融媒" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/兴平综合.png" group-title="陕西",兴平融媒
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002562/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="周至综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/周至.png" group-title="陕西",周至综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002576/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="长安综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/长安综合.png" group-title="未分组",长安综合
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002645/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225867/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="卫视",陕西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001042/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/浙江卫视.png" group-title="卫视",浙江卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视",安徽卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="卫视",山东卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001053/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001057/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视",广西卫视
+http://sakura.dynv6.net:64785/rtp/239.112.205.51:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://logo.catvod.com/延边卫视.png" group-title="卫视",延边卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="卫视",山西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视",河北卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视",河南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001045/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/厦门卫视.png" group-title="卫视",厦门卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="卫视",三沙卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000280
+
+
+
+
